@@ -1,6 +1,7 @@
 apply plugin: "com.android.application"
 
 android {
+    namespace "com.ranarene.controlventas"
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion "33.0.0"
 
